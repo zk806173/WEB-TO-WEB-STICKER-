@@ -1,6 +1,7 @@
 {
   "name": "websticker",
   "version": "1.0.0",
+  "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
