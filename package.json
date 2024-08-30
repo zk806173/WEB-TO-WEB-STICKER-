@@ -1,5 +1,5 @@
 {
-  "name": "STK",
+  "name": "websticker",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,5 +7,13 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
-}
+  "dependencies": {
+    "prompt": "^1.3.0"
+        "facebook-chat-api": "^1.8.0",
+    )
+    )
+  
+  
+
+
+  
