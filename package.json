@@ -1,27 +1,26 @@
 {
-  "name": "Web-tool",
+  "name": "Websticker",
   "version": "2.1.0",
-  "description": "Canvo tool by Mr Devil",
-  "main": "web.js",
+  "description": "Canvo tool by Mr virat",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dineshsrivastav/Web.git"
+    "url": "git+https://https://github.com/bk4206/websticker.git"
   },
   "keywords": [
-    "Web-Tool",
-    "Canvo-Tool",
-    "Web-to-web",
+    "websticker",
+    
     "tool"
   ],
-  "author": "Devil King",
+  "author": "bk24096",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dineshsrivastav/Web/issues"
+    "url": "https://github.com/bk4206/websticker.git"
   },
-  "homepage": "https://github.com/dineshsrivastav/Web #readme",
+  
   "dependencies": {
         "facebook-chat-api": "^1.8.0",
     "axios": "^1.7.3",
