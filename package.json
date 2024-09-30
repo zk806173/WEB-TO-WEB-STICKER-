@@ -1,7 +1,7 @@
 {
   "name": "Web-tool",
   "version": "2.1.0",
-  "description": "Canvo tool by Mr Devil",
+  "description": "Canvo tool by Mr Zohan",
   "main": "web.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +16,7 @@
     "Web-to-web",
     "tool"
   ],
-  "author": "Devil King",
+  "author": "Zohan King",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dineshsrivastav/Web/issues"
